@@ -2,6 +2,4 @@
 Success of a Video Game Predictor
 
 
-
-
-[Poster (1) 2.pdf](https://github.com/FloppyDoval/data-science-Final-project/files/15392780/Poster.1.2.pdf)
+![Poster](https://github.com/FloppyDoval/data-science-Final-project/assets/113315699/d2ab4c78-c848-49a2-889d-bb2680997997)
